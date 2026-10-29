@@ -14,6 +14,7 @@ My goal: To build useful digital products that make a meaningful impact.
    Frontend
    
 HTML5,CSS3,JavaScript,React.js
+  
    Backend
    
 Node.js,Express.js,REST APIs
@@ -34,4 +35,4 @@ I’m always happy to connect with developers, collaborate on projects, and expl
    GitHub: https://github.com/e-besh
    Portfolio: https://portfolio-website-chi-eight-13.vercel.app/
 
-⭐ Building, learning, and turning ideas into reality — one project at a time.
+⭐ Building, learning, and turning ideas into reality 
